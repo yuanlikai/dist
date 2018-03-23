@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e80966d8-3bcf-49f3-9914-6856bec23493" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.6b2a94b8f9d85a51e0f1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.6b2a94b8f9d85a51e0f1.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.deaf2c2f15ea3fc347b7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.deaf2c2f15ea3fc347b7.js.map" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.a80594f6ace546e2098d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.a80594f6ace546e2098d.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.2525b85e59e37f04da95.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.2525b85e59e37f04da95.js.map" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.702a0f5727fadc6f0e66aff19d864a9e.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.702a0f5727fadc6f0e66aff19d864a9e.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.923bc16c0d1085b138f0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.923bc16c0d1085b138f0.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.f9b44b174ea4b3d84e28.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.f9b44b174ea4b3d84e28.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.3d18e8f7e46343ca7646.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.3d18e8f7e46343ca7646.js.map" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.7fd1b9759ae13ca808dc0199f3c88bd0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.7fd1b9759ae13ca808dc0199f3c88bd0.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.6b2a94b8f9d85a51e0f1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.6b2a94b8f9d85a51e0f1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.deaf2c2f15ea3fc347b7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.deaf2c2f15ea3fc347b7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.05a814005a053ac1b26b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.05a814005a053ac1b26b.js.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -35,8 +43,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1496063">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.2992126">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -290,7 +298,13 @@
       <option name="project" value="LOCAL" />
       <updated>1521702283131</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="alter file&#10;&#10;alter file">
+      <created>1521771893321</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1521771893321</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -386,8 +400,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1496063">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2992126">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
